@@ -1,4 +1,4 @@
 # IntelliTools
-Merge of 2 projects:
-Summify: https://github.com/Prit33/Summify
+Merge of 2 projects:</br>
+Summify: https://github.com/Prit33/Summify </br>
 RephraseIt: https://github.com/Prit33/Rephrase-V2
